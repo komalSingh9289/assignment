@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import FieldsetInput from "../components/Fieldsetinput";
+import FieldsetInput from "../components/FieldsetInput";
 
 
 
