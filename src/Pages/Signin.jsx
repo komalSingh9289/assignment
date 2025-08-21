@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import FieldsetInput from "../Component/Fieldsetinput";
+import FieldsetInput from "../components/Fieldsetinput";
 
 
 export default function Signin() {
